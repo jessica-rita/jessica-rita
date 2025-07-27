@@ -17,7 +17,7 @@
 
 Hi! I'm Jessica — a curious and creative problem-solver who loves building things with code. I'm currently a **Software Engineering Intern at Solera**, working on internal tools using **.NET** and **Azure**. I’m also a **Break Through Tech AI Fellow**, where I build end-to-end AI models to solve real-world challenges.
 
-When I’m not coding, I’m either writing fiction, sketching, or listening to music (everything from lo-fi to Nigerian alt-pop). I’m passionate about using tech for impact and constantly growing through collaboration and learning.
+When I’m not coding, I’m either writing fiction, sketching, or listening to music (everything from lo-fi to Nigerian Afrobeats to J-pop). I’m passionate about using tech for impact and constantly growing through collaboration and learning.
 
 ---
 
@@ -42,9 +42,8 @@ When I’m not coding, I’m either writing fiction, sketching, or listening to 
 
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 📁 [GitHub](https://github.com/yourusername)
-- 📬 [Email me](mailto:youremail@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/jessica-rita-ochuba)
+- 📁 [GitHub](https://github.com/youjessica-rita)
 
 ---
 
