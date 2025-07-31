@@ -44,6 +44,7 @@ When I’m not coding, I’m either writing fiction, sketching, or listening to 
 
 - 💼 [LinkedIn](https://linkedin.com/in/jessica-rita-ochuba)
 - 📁 [GitHub](https://github.com/youjessica-rita)
+- Email [Email](mailto:ojessicarita@gmail.com)
 
 ---
 
