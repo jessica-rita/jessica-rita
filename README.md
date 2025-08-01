@@ -23,18 +23,18 @@ When I’m not coding, I’m either writing fiction, sketching, or listening to 
 
 ### 🛠️ Tech Stack
 
-- 💙 **Languages**: Python, C#, JavaScript  
-- 💙 **Frameworks & Libraries**: .NET, Flask, React (learning)  
+- 💙 **Languages**: Python, JavaScript, C#
+- 💙 **Frameworks & Libraries**: .NET, React (learning)  
 - 💙 **Tools**: Azure, Git, VS Code, Jupyter Notebooks  
-- 💙 **Learning Focus**: AI/ML Models, Full-Stack Projects, Cloud Dev
+- 💙 **Learning Focus**: AI/ML Models, Full-Stack Project
 
 ---
 
 ### 📌 Projects & Highlights
 
-- 🎓 **Break Through Tech AI Project** – Built and deployed an end-to-end ML model to [insert challenge or problem here]  
+- 🎓 **Break Through Tech AI Project** – Built and deployed an end-to-end ML model.
 - 🌐 **Techwise Web App** – Developed a Python-based language learning app using object-oriented principles  
-- 🧰 **Solera Internal Tools** – Improved developer productivity by building internal tools with .NET and Azure
+- 🧰 **Solera Internal Tools** – Improved developer productivity by building internal tools.
 
 > Check out my pinned repos or visit [my portfolio](https://your-portfolio-link.com) (coming soon!)
 
